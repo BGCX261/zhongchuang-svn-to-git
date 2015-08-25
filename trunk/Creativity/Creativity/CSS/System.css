@@ -1,0 +1,27 @@
+﻿body
+{
+}
+.books
+{
+    background:url(../JBase/ext/shared/icons/fam/book.png) no-repeat !important;
+}
+.qudao
+{
+    background:url(../Images/qudaoyanjiu.gif) no-repeat !important;
+}
+.yingxiao
+{
+    background:url(../Images/yingxiao.gif) no-repeat !important;
+}
+.zixun
+{
+    background:url(../Images/zixun.gif) no-repeat !important;
+}
+.tongxin
+{
+    background:url(../Images/tongxin.gif) no-repeat !important;
+}
+.yanfa
+{
+    background:url(../Images/yanfa.gif) no-repeat !important;
+}

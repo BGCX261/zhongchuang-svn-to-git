@@ -1,0 +1,68 @@
+* { margin:0; padding:0; list-style:none; font-size:14px;}/*---该css reset仅用于demo，请自行换成适合您自己的css reset---*/
+html { height:100%;}
+body { 
+height:100%; text-align:center;
+background-color:#0066FF;
+background:url(../images/bg2.png) repeat-x;
+background-position:bottom;
+}
+form
+{
+height:100%; text-align:center;
+background-color:#0066FF;
+background:url(../images/bg2.png) repeat-x;
+background-position:bottom;
+}
+.centerDiv {
+display:inline-block;
+zoom:1; 
+*display:inline;
+vertical-align:middle; 
+text-align:left; 
+width:1003px;
+height:619px;
+background:url(../images/bg.jpg) no-repeat;
+}
+.hiddenDiv {
+height:100%; 
+overflow:hidden;
+display:inline-block;
+width:1px; 
+overflow:hidden; 
+margin-left:-1px; zoom:1;
+*display:inline; 
+*margin-top:-1px;
+_margin-top:0;
+vertical-align:middle;
+}
+
+.login2{
+width:260px;
+height:125px;
+margin-left:450px;
+margin-top:300px;
+}
+.box{
+width:260px;
+height:25px;
+margin-top:5px;
+}
+.chd1{
+width:60px;
+height:20px;
+float:left;
+font-size:15px;
+color:#fff;
+}
+.chd2{
+width:186px;
+height:20px;
+float:left;
+}
+.chd3{
+width:70px;
+height:25px;
+float:left;
+text-align:right;
+margin-left:10px;
+}
